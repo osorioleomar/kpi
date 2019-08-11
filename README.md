@@ -1,2 +1,2 @@
 # kpi
-A side project for managing my team productivity and performance.
+A side project for managing my team's productivity and performance.
