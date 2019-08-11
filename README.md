@@ -6,9 +6,9 @@ A side project for managing my team's productivity and performance.
 
 | column        | description           |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| id      | primary key |
+| skill_name      | a descriptive skill name which will be used for dropdown options |
+| skill_description      | a short description about the skill, how to hone it, etc. |
 
 **responsibilities** - are the things they need to maintain related to company's products and services. Should be measured by weight which is the average of difficulty and criticality.
 
